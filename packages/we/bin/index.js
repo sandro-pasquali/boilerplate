@@ -27,6 +27,7 @@ for(const commandPath of commands) {
     Commands.set(commandName, command);
 }
 
+// comment
 Yargs(hideBin(process.argv))
     .command(
         'fetch [url]',
