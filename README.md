@@ -1,5 +1,7 @@
 # The NodeJS Monorepo
 
+A boilerplate for understanding how to set up a `NodeJS` monorepo, with a CLI!
+
 ## Getting started
 
 Install `Node.js` 16 or higher.
