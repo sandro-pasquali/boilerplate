@@ -1,6 +1,6 @@
 # The NodeJS Monorepo
 
-A boilerplate for understanding how to set up a `NodeJS` monorepo, with a CLI!
+A boilerplate for understanding how to set up a `NodeJS` monorepo, with a CLI! Play around.
 
 ## Getting started
 
